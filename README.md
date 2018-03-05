@@ -3,7 +3,12 @@ Python 3 solutions for Leet Code Problems
 
 Solutions currently completed:
 
-(Easy)
+Easy
+
+| ID  | Problem             | Solution |
+| --- | ------------------- | -------- |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python3](https://github.com/dthorns/LeetCodeSolutions/blob/master/TwoSum.py) |
+
 
 Two Sum https://leetcode.com/problems/two-sum/description/
  
